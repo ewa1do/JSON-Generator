@@ -1,3 +1,4 @@
+import { printProgress } from './config';
 import {
   PromiseId,
   getDesc,
@@ -47,6 +48,7 @@ const limit = 100;
     };
 
     puppyData.push(data);
+    printProgress(i + 1);
   }
 
   await writeJsonFile(

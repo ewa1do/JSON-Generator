@@ -1,6 +1,11 @@
 import * as fs from 'node:fs';
 import { v4 as uuid } from 'uuid';
-import { getBirdImage, getCatImage, getDogImage } from './requests';
+import {
+  getBirdImage,
+  getCatImage,
+  getDescription,
+  getDogImage,
+} from './requests';
 import {
   animals,
   description,
@@ -96,9 +101,7 @@ async function getPetGender(): Promise<string> {
 }
 
 async function getDesc(): Promise<string> {
-  return new Promise((resolve) => {
-    resolve(description);
-  });
+  return getDescription();
 }
 
 async function setPhoneNumber(): Promise<string> {
@@ -113,8 +116,8 @@ async function writeJsonFile(dir: string, file: string) {
     fs.writeFile(dir, file, (err) => {
       if (err) reject(err);
 
-      console.log('File Created Successfully');
-      resolve('sucess');
+      console.log('\n\nFile Created Successfully!!');
+      resolve('success');
     });
   });
 }

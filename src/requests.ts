@@ -3,6 +3,7 @@ import * as https from 'node:https';
 const dogApiEndpoint = 'https://dog.ceo/api/breeds/image/random';
 const catApiEndpoint = 'https://api.thecatapi.com/v1/images/search';
 const birdApiEndpoint = 'https://zoo-animal-api.herokuapp.com/animals/rand/10';
+const quotesEndpoint = 'https://api.api-ninjas.com/v1/quotes?category=';
 
 interface AnimalApiResponse {
   name: string;
@@ -19,6 +20,12 @@ interface AnimalApiResponse {
   geo_range: string;
   image_link: string;
   id: number;
+}
+
+interface QuoteApiResponse {
+  quote: string;
+  author: string;
+  category: string;
 }
 
 function getDogImage(): Promise<string> {
@@ -83,4 +90,32 @@ function getBirdImage(): Promise<string> {
   });
 }
 
-export { getBirdImage, getDogImage, getCatImage };
+function getDescription(): Promise<string> {
+  return new Promise((resolve, reject) => {
+    https.get(
+      quotesEndpoint,
+      {
+        headers: {
+          'X-Api-Key': 'lLEtIQmjgL/Fb6BQcLasXg==vIVlozADvPSghKsC',
+        },
+      },
+      (res) => {
+        let data = '';
+
+        res.on('data', (chunk) => {
+          data += chunk;
+        });
+
+        res.on('close', () => {
+          const [{ quote }]: QuoteApiResponse[] = JSON.parse(data);
+
+          resolve(quote);
+        });
+
+        res.on('error', (err) => reject(err));
+      }
+    );
+  });
+}
+
+export { getBirdImage, getDogImage, getCatImage, getDescription };

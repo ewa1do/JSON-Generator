@@ -1,1002 +1,1002 @@
 [
   {
-    "id": "014f341f-bf4c-416a-b8e7-5a1e920149cb",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "gender": "female",
-    "image": "https://images.dog.ceo/breeds/weimaraner/n02092339_5292.jpg",
-    "kind": "perro",
-    "name": "camino",
-    "owner": "Paul,Bronson",
-    "phoneNumber": "+57-311-56377438"
-  },
-  {
-    "id": "30355123-7f7a-4af8-b04e-070c90cb1bc5",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "gender": "female",
-    "image": "https://cdn2.thecatapi.com/images/322.jpg",
+    "id": "06a54f14-8154-4e9d-8678-665e7fa3aac1",
+    "description": "I am tomorrow, or some future day, what I establish today. I am today what I established yesterday or some previous day.",
+    "gender": "male",
+    "image": "https://cdn2.thecatapi.com/images/I3-jG59ac.jpg",
     "kind": "gato",
-    "name": "eisley",
-    "owner": "Holly,Jones",
-    "phoneNumber": "+57-311-20437521"
+    "name": "caesar",
+    "owner": "Sandy,Johanson",
+    "phoneNumber": "+57-311-26159589"
   },
   {
-    "id": "fd5b3a7b-0dfe-47fc-b8d5-e8a05efea7d4",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "id": "67e85936-ad90-4b13-a2d5-6c3d37a6c7d1",
+    "description": "Civilization grew in the beginning from the minute that we had communication - particularly communication by sea that enabled people to get inspiration and ideas from each other and to exchange basic raw materials.",
     "gender": "male",
     "image": "https://images.unsplash.com/photo-1577099600565-e89ede2b9422?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80",
     "kind": "roedor",
-    "name": "lit'l blue",
-    "owner": "Marietta,Brown",
-    "phoneNumber": "+57-311-76693669"
-  },
-  {
-    "id": "87ea5263-9eb9-463b-a7ef-2779a6bf375e",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "gender": "female",
-    "image": "https://images.dog.ceo/breeds/terrier-irish/n02093991_2923.jpg",
-    "kind": "perro",
-    "name": "lotti",
-    "owner": "David,Whitehead",
-    "phoneNumber": "+57-311-5854578"
-  },
-  {
-    "id": "f921b626-84be-4cb2-9cb2-3c414a5337d1",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "gender": "female",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/1/1a/About_to_Launch_%2826075320352%29.jpg",
-    "kind": "ave",
-    "name": "chapo",
-    "owner": "David,Adamson",
-    "phoneNumber": "+57-311-99689968"
-  },
-  {
-    "id": "7ed36622-4845-423c-b5e3-49c1e799c9cc",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "gender": "female",
-    "image": "https://images.unsplash.com/photo-1425082661705-1834bfd09dca?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=876&q=80",
-    "kind": "roedor",
-    "name": "shane",
-    "owner": "Emily,Wood",
-    "phoneNumber": "+57-311-9951253"
-  },
-  {
-    "id": "5c87ae80-7a6e-43c8-9ec3-c7fa41b506cf",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "gender": "male",
-    "image": "https://cdn2.thecatapi.com/images/-zZZtANMV.jpg",
-    "kind": "gato",
-    "name": "cal",
+    "name": "roby",
     "owner": "Melissa,Roberts",
-    "phoneNumber": "+57-311-89858398"
+    "phoneNumber": "+57-311-84048725"
   },
   {
-    "id": "4aadccbf-9ed6-4a5c-8097-5c5fef425ceb",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "id": "8b50f2d2-31bc-4762-973c-ac99d241bd59",
+    "description": "Unless you have prepared yourself to profit by your chance, the opportunity will only make you ridiculous. A great occasion is valuable to you just in proportion as you have educated yourself to make use of it.",
     "gender": "male",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Raggiana_bird_of_paradise.jpg",
-    "kind": "ave",
-    "name": "keta",
-    "owner": "Vernon,Frank",
-    "phoneNumber": "+57-311-60866773"
-  },
-  {
-    "id": "7580cc52-98bc-4256-b020-4acadf483abf",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "gender": "female",
-    "image": "https://images.dog.ceo/breeds/terrier-wheaten/n02098105_2744.jpg",
+    "image": "https://images.dog.ceo/breeds/deerhound-scottish/n02092002_14369.jpg",
     "kind": "perro",
-    "name": "kayma",
-    "owner": "Holly,Jones",
-    "phoneNumber": "+57-311-23001033"
-  },
-  {
-    "id": "66539474-9747-4f88-982e-89ff1473d9d1",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "gender": "male",
-    "image": "https://cdn2.thecatapi.com/images/9gh.jpg",
-    "kind": "gato",
-    "name": "king louis",
-    "owner": "Marietta,Brown",
-    "phoneNumber": "+57-311-125733"
-  },
-  {
-    "id": "198dc1aa-03ee-40e4-a350-cbd6a3e15a08",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "gender": "female",
-    "image": "https://cdn2.thecatapi.com/images/5os.jpg",
-    "kind": "gato",
-    "name": "olive",
-    "owner": "Mary,Smith",
-    "phoneNumber": "+57-311-71179418"
-  },
-  {
-    "id": "e2a42e35-6199-49e4-bdfd-fa19a8e49b02",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "gender": "female",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/5/55/Adult_Steller%27s_sea_eagle_fishing.jpg",
-    "kind": "ave",
-    "name": "korra",
-    "owner": "Kelly,Marder",
-    "phoneNumber": "+57-311-11659455"
-  },
-  {
-    "id": "0a1ccfc1-4fb7-455f-9ddc-cb37b1a11556",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "gender": "female",
-    "image": "https://images.dog.ceo/breeds/terrier-norwich/n02094258_2956.jpg",
-    "kind": "perro",
-    "name": "arya bark",
-    "owner": "Mary,Smith",
-    "phoneNumber": "+57-311-67496897"
-  },
-  {
-    "id": "ea0daf3f-e500-45c1-851d-dedaccdbbf6f",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "gender": "female",
-    "image": "https://images.dog.ceo/breeds/terrier-toy/n02087046_7492.jpg",
-    "kind": "perro",
-    "name": "boy",
-    "owner": "David,Adamson",
-    "phoneNumber": "+57-311-14177584"
-  },
-  {
-    "id": "af32308c-0d1c-41c8-a431-976b9d15a597",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "gender": "male",
-    "image": "https://images.unsplash.com/photo-1577099600565-e89ede2b9422?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80",
-    "kind": "roedor",
-    "name": "kusko",
-    "owner": "James,Johnson",
-    "phoneNumber": "+57-311-13541506"
-  },
-  {
-    "id": "db164113-7fb2-4276-94b8-52b414f6dbf3",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "gender": "male",
-    "image": "https://cdn2.thecatapi.com/images/ats.jpg",
-    "kind": "gato",
-    "name": "izzie",
-    "owner": "Marietta,Brown",
-    "phoneNumber": "+57-311-74938652"
-  },
-  {
-    "id": "01bbddd6-dc88-48b5-a47c-0b6c16f0beb2",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "gender": "male",
-    "image": "https://images.unsplash.com/photo-1577099600565-e89ede2b9422?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80",
-    "kind": "roedor",
-    "name": "bara",
-    "owner": "Emily,Manin",
-    "phoneNumber": "+57-311-80837564"
-  },
-  {
-    "id": "3176fd3c-7f8c-41a0-ab3c-29f8976809f6",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "gender": "male",
-    "image": "https://images.dog.ceo/breeds/bluetick/n02088632_205.jpg",
-    "kind": "perro",
-    "name": "lilly",
-    "owner": "Kenneth,Charles",
-    "phoneNumber": "+57-311-53645320"
-  },
-  {
-    "id": "d7187d81-ed9c-4cf3-b06d-0deef7c7ec43",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "gender": "female",
-    "image": "https://images.unsplash.com/photo-1618252903592-2b8c90c43a6e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
-    "kind": "roedor",
-    "name": "weatherby",
-    "owner": "Vernon,Frank",
-    "phoneNumber": "+57-311-5418798"
-  },
-  {
-    "id": "fa8d435b-f547-4026-a7ed-0eee03184015",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "gender": "male",
-    "image": "https://images.dog.ceo/breeds/schnauzer-miniature/n02097047_1798.jpg",
-    "kind": "perro",
-    "name": "dumpling",
-    "owner": "Marietta,Brown",
-    "phoneNumber": "+57-311-30932835"
-  },
-  {
-    "id": "ebdfc320-6c00-4c9a-9306-7e0d9540a811",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "gender": "male",
-    "image": "https://images.unsplash.com/photo-1618252903592-2b8c90c43a6e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
-    "kind": "roedor",
-    "name": "mowgly",
-    "owner": "Emily,Manin",
-    "phoneNumber": "+57-311-71167317"
-  },
-  {
-    "id": "11f2e0c0-5386-4b4d-963c-dab92540b61d",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "gender": "male",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/6/63/African_penguin_side_profile.jpg",
-    "kind": "ave",
-    "name": "stitch",
-    "owner": "Vernon,Frank",
-    "phoneNumber": "+57-311-48609897"
-  },
-  {
-    "id": "e349277e-70f9-49c4-98c9-3a2f280a84f1",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "gender": "male",
-    "image": "https://images.unsplash.com/photo-1618252903592-2b8c90c43a6e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
-    "kind": "roedor",
-    "name": "\"beowulf \"\"boomer\"\"\"",
-    "owner": "Sandy,Adams",
-    "phoneNumber": "+57-311-95537325"
-  },
-  {
-    "id": "cd5c8e88-63f3-403d-8def-6bb66e7dbb36",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "gender": "female",
-    "image": "https://images.unsplash.com/photo-1618252903592-2b8c90c43a6e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
-    "kind": "roedor",
-    "name": "dazee",
-    "owner": "Sandy,Adams",
-    "phoneNumber": "+57-311-89603599"
-  },
-  {
-    "id": "1cb67554-c9bc-4759-9eaf-27497e7175f4",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "gender": "female",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b4/2012-lappet-faced-vulture.jpg",
-    "kind": "ave",
-    "name": "noa",
+    "name": "ghost",
     "owner": "Patricia,Milgrom",
-    "phoneNumber": "+57-311-11571776"
+    "phoneNumber": "+57-311-71096107"
   },
   {
-    "id": "79f9702f-8246-4a77-bb19-2b2edf7ad757",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "id": "c750951b-1ca4-49cb-b366-98049ae50acd",
+    "description": "It's funny - nowadays people that are famous get chased by paparazzi. They have this fame, but they don't have the money to hide from it.",
     "gender": "female",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Grey_crowned_crane_at_Martin_Mere.JPG",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/84/Blue-crowned_Laughingthrush_10.jpg",
     "kind": "ave",
-    "name": "henni",
+    "name": "jagger",
     "owner": "Harold,Foster",
-    "phoneNumber": "+57-311-15983407"
+    "phoneNumber": "+57-311-87336192"
   },
   {
-    "id": "d7e0d048-b3eb-4d7a-96bb-e63d514c735d",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "id": "860f4311-5612-48c2-9631-e5507b164737",
+    "description": "God did not intend religion to be an exercise club.",
     "gender": "male",
-    "image": "https://images.dog.ceo/breeds/dhole/n02115913_2657.jpg",
-    "kind": "perro",
-    "name": "nicky",
-    "owner": "Jose,Rodriguez",
-    "phoneNumber": "+57-311-66777999"
-  },
-  {
-    "id": "ed976589-b271-4911-9273-38fe264b704a",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "gender": "male",
-    "image": "https://images.unsplash.com/photo-1618252903592-2b8c90c43a6e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
-    "kind": "roedor",
-    "name": "suzzy",
-    "owner": "Mary,Smith",
-    "phoneNumber": "+57-311-16854551"
-  },
-  {
-    "id": "140445e6-ec82-4391-b3cd-c9ee8820c43d",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "gender": "male",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Tyto_alba_-British_Wildlife_Centre%2C_Surrey%2C_England-8a_%281%29.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Crested_Coua_RWD3.jpg",
     "kind": "ave",
-    "name": "heidi",
-    "owner": "Marietta,Brown",
-    "phoneNumber": "+57-311-40078625"
+    "name": "mabel",
+    "owner": "David,Webster",
+    "phoneNumber": "+57-311-85491421"
   },
   {
-    "id": "3291f94d-33d0-4732-80aa-5ed06c5d572e",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "id": "982ec81d-c8c6-4eb7-a3d3-cc09e2b9d721",
+    "description": "Folks, the most insidious part of this whole health care scheme is that all of these vast medical expenditures will become nothing more than government budget items. We individuals will no longer exist. The relationship between a government and citizen will change forever.",
     "gender": "male",
-    "image": "https://images.dog.ceo/breeds/terrier-american/n02093428_16660.jpg",
+    "image": "https://images.dog.ceo/breeds/poodle-miniature/n02113712_3079.jpg",
     "kind": "perro",
-    "name": "lakyn",
+    "name": "dak",
     "owner": "Kenneth,Charles",
-    "phoneNumber": "+57-311-34808006"
+    "phoneNumber": "+57-311-34752776"
   },
   {
-    "id": "555d290f-8eec-49cd-b051-7308b8e6e60e",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "gender": "male",
-    "image": "https://cdn2.thecatapi.com/images/386.jpg",
-    "kind": "gato",
-    "name": "mr. man",
-    "owner": "Paul,Bronson",
-    "phoneNumber": "+57-311-15767601"
-  },
-  {
-    "id": "a3a17909-81b5-494f-bf61-8498a7d8c957",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "gender": "female",
-    "image": "https://images.dog.ceo/breeds/retriever-curly/n02099429_3193.jpg",
-    "kind": "perro",
-    "name": "chaco",
-    "owner": "Emily,Wood",
-    "phoneNumber": "+57-311-89848863"
-  },
-  {
-    "id": "9f9db3a9-61c5-41b7-9208-13f3211bab10",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "gender": "female",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Tyto_alba_-British_Wildlife_Centre%2C_Surrey%2C_England-8a_%281%29.jpg",
-    "kind": "ave",
-    "name": "cici",
-    "owner": "Holly,Jones",
-    "phoneNumber": "+57-311-7047704"
-  },
-  {
-    "id": "28ca82c7-37ad-47ee-96ec-1760391bac54",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "gender": "male",
-    "image": "https://images.unsplash.com/photo-1425082661705-1834bfd09dca?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=876&q=80",
-    "kind": "roedor",
-    "name": "brittle",
-    "owner": "Paul,Bronson",
-    "phoneNumber": "+57-311-9226836"
-  },
-  {
-    "id": "c756f62a-e7c2-4b0b-8d19-a5ac09ec7e05",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "gender": "female",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Grey_crowned_crane_at_Martin_Mere.JPG",
-    "kind": "ave",
-    "name": "mattie",
-    "owner": "Marietta,Brown",
-    "phoneNumber": "+57-311-39578083"
-  },
-  {
-    "id": "a17f257b-335e-435a-ae65-a2c8a6f8a1fd",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "gender": "male",
-    "image": "https://images.dog.ceo/breeds/malamute/n02110063_10768.jpg",
-    "kind": "perro",
-    "name": "gyspsy",
-    "owner": "Paul,Bronson",
-    "phoneNumber": "+57-311-31067456"
-  },
-  {
-    "id": "d58d06ca-a7ec-4a62-86cd-3b209f53fccd",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "id": "79b93276-01bb-4e85-bd13-2cd07d6f9bab",
+    "description": "Having your own character in a video game is pretty cool.",
     "gender": "female",
     "image": "https://images.unsplash.com/photo-1425082661705-1834bfd09dca?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=876&q=80",
     "kind": "roedor",
-    "name": "rommel",
-    "owner": "Vernon,Frank",
-    "phoneNumber": "+57-311-11903320"
+    "name": "mr.t",
+    "owner": "David,Webster",
+    "phoneNumber": "+57-311-43500338"
   },
   {
-    "id": "f4d5c8d2-8662-4bae-92e9-8972cab27295",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "gender": "female",
-    "image": "https://images.unsplash.com/photo-1618252903592-2b8c90c43a6e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
-    "kind": "roedor",
-    "name": "rudder",
+    "id": "391a79dd-a04c-42ae-bfb8-241fd938b461",
+    "description": "Leadership is hard to define and good leadership even harder. But if you can get people to follow you to the ends of the earth, you are a great leader.",
+    "gender": "male",
+    "image": "https://images.dog.ceo/breeds/poodle-miniature/n02113712_7710.jpg",
+    "kind": "perro",
+    "name": "jeep",
     "owner": "Kelly,Marder",
-    "phoneNumber": "+57-311-5426490"
+    "phoneNumber": "+57-311-57448668"
   },
   {
-    "id": "42fbe346-12be-484d-bfb4-fa79ee78a46e",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "gender": "male",
-    "image": "https://cdn2.thecatapi.com/images/0m3_T6XH9.jpg",
-    "kind": "gato",
-    "name": "alley",
-    "owner": "Emily,Manin",
-    "phoneNumber": "+57-311-90734740"
-  },
-  {
-    "id": "95cd0834-463e-46e2-a31d-58c95620722f",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "id": "561d2a1c-59c8-4be5-ab29-d490d61e7f29",
+    "description": "The advocates of abortion on demand falsely assume two things: that women must suffer if the lives of unborn children are legally protected and that women can only attain equality by having the legal option of destroying their innocent offspring in the womb.",
     "gender": "female",
-    "image": "https://images.dog.ceo/breeds/schnauzer-giant/n02097130_4265.jpg",
-    "kind": "perro",
-    "name": "scooter",
-    "owner": "Holly,Holmes",
-    "phoneNumber": "+57-311-29802512"
-  },
-  {
-    "id": "4f31f32e-31e2-4ae1-8bb0-1663141f0721",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "gender": "female",
-    "image": "https://images.dog.ceo/breeds/tervuren/yoda_on_terrace.jpg",
-    "kind": "perro",
-    "name": "natsu",
-    "owner": "Paul,Bronson",
-    "phoneNumber": "+57-311-69191709"
-  },
-  {
-    "id": "07ea0fc7-73c4-4688-b620-11a234ba5441",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "gender": "male",
-    "image": "https://cdn2.thecatapi.com/images/990.jpg",
-    "kind": "gato",
-    "name": "glory",
-    "owner": "William,Martin",
-    "phoneNumber": "+57-311-72991438"
-  },
-  {
-    "id": "9d0baef1-3f5a-426c-8d88-79bb19c54676",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "gender": "male",
     "image": "https://images.unsplash.com/photo-1577099600565-e89ede2b9422?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80",
     "kind": "roedor",
-    "name": "archer",
-    "owner": "Mary,Smith",
-    "phoneNumber": "+57-311-35893057"
-  },
-  {
-    "id": "19715653-faec-4a1f-9c90-b80765a0149d",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "gender": "male",
-    "image": "https://images.dog.ceo/breeds/terrier-cairn/n02096177_10959.jpg",
-    "kind": "perro",
-    "name": "winry",
-    "owner": "Frank,Smith",
-    "phoneNumber": "+57-311-97834927"
-  },
-  {
-    "id": "cebc84cb-dc7e-4250-8b2a-7edb937caaff",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "gender": "male",
-    "image": "https://cdn2.thecatapi.com/images/4kl.gif",
-    "kind": "gato",
-    "name": "boogie",
-    "owner": "Paul,Bronson",
-    "phoneNumber": "+57-311-41819157"
-  },
-  {
-    "id": "6027d1e1-7ce8-494f-bb40-f2446f5fe491",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "gender": "male",
-    "image": "https://cdn2.thecatapi.com/images/ct3.jpg",
-    "kind": "gato",
-    "name": "tee",
-    "owner": "David,Whitehead",
-    "phoneNumber": "+57-311-21681846"
-  },
-  {
-    "id": "2e375e68-807e-48fd-8975-9bae8f149a5d",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "gender": "male",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/3/35/Larosterna_inca_-Lima%2C_Peru_-family-8.jpg",
-    "kind": "ave",
-    "name": "felix",
+    "name": "seamore",
     "owner": "Harold,Foster",
-    "phoneNumber": "+57-311-8725721"
+    "phoneNumber": "+57-311-73291785"
   },
   {
-    "id": "ba9cc76a-f376-4ad4-a7e0-b942fc0d0842",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "id": "a2feb2e8-6742-4cee-8d45-6f8c502072c4",
+    "description": "When I can 10 or 11, my mom was the one out there catching passes for me. She was my prime receiver.",
+    "gender": "female",
+    "image": "https://cdn2.thecatapi.com/images/cdb.jpg",
+    "kind": "gato",
+    "name": "koduh",
+    "owner": "Sandy,Adams",
+    "phoneNumber": "+57-311-55312814"
+  },
+  {
+    "id": "e064c328-d61c-4ba8-98a0-39aeecd5e546",
+    "description": "I get to play golf for a living. What more can you ask for - getting paid for doing what you love.",
+    "gender": "female",
+    "image": "https://images.dog.ceo/breeds/coonhound/n02089078_2753.jpg",
+    "kind": "perro",
+    "name": "spartacus poseidon",
+    "owner": "Kelly,Marder",
+    "phoneNumber": "+57-311-6615054"
+  },
+  {
+    "id": "5ad2dfad-f6bf-41bc-aed6-f640b8afaa77",
+    "description": "Imagination is as good as many voyages - and how much cheaper!",
     "gender": "female",
     "image": "https://images.unsplash.com/photo-1577099600565-e89ede2b9422?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80",
     "kind": "roedor",
-    "name": "rocketman",
-    "owner": "Tracy,Coulter",
-    "phoneNumber": "+57-311-16887772"
+    "name": "chicago",
+    "owner": "Kelly,Marder",
+    "phoneNumber": "+57-311-11421803"
   },
   {
-    "id": "f7d9f7a1-8e0e-4b20-aaaf-0457bf17fa5a",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "id": "5ba525ea-9b40-40f8-9f58-06d8c8ed2c29",
+    "description": "For as long as I can remember I have suffered from a deep feeling of anxiety which I have tried to express in my art.",
+    "gender": "male",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/46/Cochlearius_cochleariaPCCA20071227-8443B.jpg",
+    "kind": "ave",
+    "name": "basher",
+    "owner": "Sandy,Adams",
+    "phoneNumber": "+57-311-34271784"
+  },
+  {
+    "id": "1b9c7c74-13bc-44a9-b92d-4202658389dd",
+    "description": "My best friend is the one who brings out the best in me.",
+    "gender": "female",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/09/Bali_Mynah.jpg",
+    "kind": "ave",
+    "name": "argus",
+    "owner": "Mary,Smith",
+    "phoneNumber": "+57-311-84440953"
+  },
+  {
+    "id": "4193d74e-f0df-4e87-b87b-0684648448f3",
+    "description": "Three groups spend other people's money: children, thieves, politicians. All three need supervision.",
+    "gender": "male",
+    "image": "https://cdn2.thecatapi.com/images/4qYojbVqc.jpg",
+    "kind": "gato",
+    "name": "king",
+    "owner": "David,Adamson",
+    "phoneNumber": "+57-311-33633756"
+  },
+  {
+    "id": "26334c92-c453-4db6-b8fb-49f0006048cc",
+    "description": "I would cap the amount of federal government can spend at 20 percent of the economy. Bring it back to 20 percent or lower. And say, we are not going to spend above that level. Democrats, they want to raise your taxes and spend more and more and turn us into an economy which is no longer driven by the private sector.",
+    "gender": "female",
+    "image": "https://cdn2.thecatapi.com/images/b43.jpg",
+    "kind": "gato",
+    "name": "suka",
+    "owner": "Patricia,Milgrom",
+    "phoneNumber": "+57-311-34644612"
+  },
+  {
+    "id": "901ee260-ea26-47a8-9ac7-2b39a6c0e2d8",
+    "description": "If we are to negotiate the coming years safely, we may need a new kind of leadership. To put it more precisely, we need the rediscovery of an ancient kind of leadership that has rarely been given the prominence it deserves. I mean the leader as teacher.",
+    "gender": "male",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Cacatua_moluccensis_-Cincinnati_Zoo-8a.jpg",
+    "kind": "ave",
+    "name": "kahn",
+    "owner": "Melissa,Roberts",
+    "phoneNumber": "+57-311-15683922"
+  },
+  {
+    "id": "c35a68a6-b8d6-4372-9665-3a5ceabdb3e6",
+    "description": "Congratulations, you have a sense of humor. And to those who didn't: Go stick your head in the mud.",
+    "gender": "female",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Cacatua_moluccensis_-Cincinnati_Zoo-8a.jpg",
+    "kind": "ave",
+    "name": "mr.b",
+    "owner": "David,Whitehead",
+    "phoneNumber": "+57-311-77827070"
+  },
+  {
+    "id": "f5096a87-1e8b-46ae-9852-27ade5b73365",
+    "description": "People ask me what the most important thing to take on the race is, and I always say it's a sense of humor. If you've got nothing but a sense of humor, you will survive.",
+    "gender": "male",
+    "image": "https://images.unsplash.com/photo-1577099600565-e89ede2b9422?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80",
+    "kind": "roedor",
+    "name": "malory",
+    "owner": "Emily,Manin",
+    "phoneNumber": "+57-311-94497656"
+  },
+  {
+    "id": "9e33c22a-7185-4a7f-8d2e-0ce2b40301c6",
+    "description": "It's funny - if you impersonate somebody, they have no idea it's them.",
+    "gender": "male",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Tumpeter1byWoodigo.JPG",
+    "kind": "ave",
+    "name": "lola",
+    "owner": "Sandy,Johanson",
+    "phoneNumber": "+57-311-9883673"
+  },
+  {
+    "id": "530c63c7-945e-4e99-95f7-29fac5afc97c",
+    "description": "It is better to be unhappy in love than unhappy in marriage, but some people manage to be both.",
+    "gender": "male",
+    "image": "https://images.unsplash.com/photo-1577099600565-e89ede2b9422?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80",
+    "kind": "roedor",
+    "name": "joubert",
+    "owner": "Emily,Wood",
+    "phoneNumber": "+57-311-68081426"
+  },
+  {
+    "id": "b38a51dc-e7c2-4b02-b800-b6ce7518a953",
+    "description": "The planter, the farmer, the mechanic, and the laborer... form the great body of the people of the United States, they are the bone and sinew of the country men who love liberty and desire nothing but equal rights and equal laws.",
+    "gender": "male",
+    "image": "https://images.unsplash.com/photo-1618252903592-2b8c90c43a6e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+    "kind": "roedor",
+    "name": "keeloni",
+    "owner": "Frank,Smith",
+    "phoneNumber": "+57-311-31347311"
+  },
+  {
+    "id": "7f223f1f-9c4e-414d-a3f2-7f47d81006f5",
+    "description": "When we try to pick out anything by itself, we find it hitched to everything else in the universe.",
+    "gender": "male",
+    "image": "https://images.unsplash.com/photo-1577099600565-e89ede2b9422?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80",
+    "kind": "roedor",
+    "name": "pukuk",
+    "owner": "Marietta,Brown",
+    "phoneNumber": "+57-311-87356391"
+  },
+  {
+    "id": "c33b666a-487b-41d0-b998-39132e79fef6",
+    "description": "You cannot set art off in a corner and hope for it to have vitality, reality, and substance.",
+    "gender": "female",
+    "image": "https://images.dog.ceo/breeds/hound-afghan/n02088094_6372.jpg",
+    "kind": "perro",
+    "name": "midas",
+    "owner": "Sandy,Adams",
+    "phoneNumber": "+57-311-41337367"
+  },
+  {
+    "id": "baf57183-6e1d-4d7e-8fef-a655002ea298",
+    "description": "The beauty of having short hair is that I actually can wash and style it at home!",
+    "gender": "male",
+    "image": "https://images.dog.ceo/breeds/terrier-bedlington/n02093647_1564.jpg",
+    "kind": "perro",
+    "name": "taco",
+    "owner": "Jose,Rodriguez",
+    "phoneNumber": "+57-311-67897187"
+  },
+  {
+    "id": "d967e489-ae99-4fc4-8369-23ed50f2ef21",
+    "description": "Your destiny is my destiny. Your happiness is my happiness.",
+    "gender": "male",
+    "image": "https://cdn2.thecatapi.com/images/Pwcr--JhB.jpg",
+    "kind": "gato",
+    "name": "nerre",
+    "owner": "David,Adamson",
+    "phoneNumber": "+57-311-21050467"
+  },
+  {
+    "id": "7b859b62-b0c4-42bf-a242-b8c057972a54",
+    "description": "A man can be happy with any woman, as long as he does not love her.",
+    "gender": "male",
+    "image": "https://images.unsplash.com/photo-1425082661705-1834bfd09dca?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=876&q=80",
+    "kind": "roedor",
+    "name": "cahya",
+    "owner": "David,Adamson",
+    "phoneNumber": "+57-311-21697571"
+  },
+  {
+    "id": "1c13131f-e40f-45f3-a89b-db4f9455ca7c",
+    "description": "There is certain relief in change, even though it be from bad to worse! As I have often found in traveling in a stagecoach, that it is often a comfort to shift one's position, and be bruised in a new place.",
+    "gender": "male",
+    "image": "https://images.dog.ceo/breeds/terrier-norwich/n02094258_1345.jpg",
+    "kind": "perro",
+    "name": "usher",
+    "owner": "Frank,Smith",
+    "phoneNumber": "+57-311-77584463"
+  },
+  {
+    "id": "c2cd4368-6405-4a39-9eb9-31190921b836",
+    "description": "The art of government is the organisation of idolatry.",
+    "gender": "female",
+    "image": "https://cdn2.thecatapi.com/images/cgn.jpg",
+    "kind": "gato",
+    "name": "fluffy blaze",
+    "owner": "Vernon,Frank",
+    "phoneNumber": "+57-311-5671996"
+  },
+  {
+    "id": "74e3929a-083b-47fe-99e3-2f86201fc95d",
+    "description": "My dad was a singer in a band and neither of my parents went to college, and I ended up getting into Harvard and was the first person in my family that went to college and it happened to be Harvard.",
+    "gender": "male",
+    "image": "https://cdn2.thecatapi.com/images/eel.jpg",
+    "kind": "gato",
+    "name": "mystique",
+    "owner": "Frank,Smith",
+    "phoneNumber": "+57-311-24804603"
+  },
+  {
+    "id": "1d039ee3-3ed8-4feb-9319-844d71ddbe6b",
+    "description": "It is easier for a father to have children than for children to have a real father.",
+    "gender": "female",
+    "image": "https://cdn2.thecatapi.com/images/4lv.gif",
+    "kind": "gato",
+    "name": "floyd",
+    "owner": "David,Whitehead",
+    "phoneNumber": "+57-311-44427082"
+  },
+  {
+    "id": "14358748-410e-46c9-9771-d4742ba9c1f2",
+    "description": "The most terrible job in warfare is to be a second lieutenant leading a platoon when you are on the battlefield.",
+    "gender": "male",
+    "image": "https://images.unsplash.com/photo-1425082661705-1834bfd09dca?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=876&q=80",
+    "kind": "roedor",
+    "name": "rolo",
+    "owner": "William,Martin",
+    "phoneNumber": "+57-311-37053769"
+  },
+  {
+    "id": "ff235367-1792-4ebe-a921-e45cebbc9f16",
+    "description": "He who learns must suffer. And even in our sleep pain that cannot forget falls drop by drop upon the heart, and in our own despair, against our will, comes wisdom to us by the awful grace of God.",
+    "gender": "male",
+    "image": "https://images.dog.ceo/breeds/redbone/n02090379_5326.jpg",
+    "kind": "perro",
+    "name": "dazee",
+    "owner": "Emily,Wood",
+    "phoneNumber": "+57-311-59147544"
+  },
+  {
+    "id": "390ce75d-c314-47e6-9b2f-3c80696dc68a",
+    "description": "For every quarrel a man and wife have before others, they have a hundred when alone.",
+    "gender": "female",
+    "image": "https://images.unsplash.com/photo-1577099600565-e89ede2b9422?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80",
+    "kind": "roedor",
+    "name": "brutus",
+    "owner": "Melissa,Roberts",
+    "phoneNumber": "+57-311-18138396"
+  },
+  {
+    "id": "ee566737-b2c3-48ea-a32c-616f7c2cef51",
+    "description": "Jealousy is all the fun you think they had.",
+    "gender": "male",
+    "image": "https://images.unsplash.com/photo-1425082661705-1834bfd09dca?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=876&q=80",
+    "kind": "roedor",
+    "name": "messi",
+    "owner": "Bill,Marlin",
+    "phoneNumber": "+57-311-39853325"
+  },
+  {
+    "id": "4ad0bc4c-fa89-4ac9-9ffd-60a2d649661e",
+    "description": "Don't corral me, and I'll always come home. Just let me go out and play during the day.",
+    "gender": "male",
+    "image": "https://cdn2.thecatapi.com/images/8h2.jpg",
+    "kind": "gato",
+    "name": "tori",
+    "owner": "Marietta,Brown",
+    "phoneNumber": "+57-311-90981755"
+  },
+  {
+    "id": "e91019ba-56cb-4305-80fe-9f4860845d7c",
+    "description": "Currently, I am overseeing the construction of the new Trump Tower in Chicago. I am involved in meeting with the construction crews, architects and sales teams. I am learning a lot and working with some of the best in the business.",
+    "gender": "female",
+    "image": "https://cdn2.thecatapi.com/images/huNquXtlK.jpg",
+    "kind": "gato",
+    "name": "dash",
+    "owner": "Marietta,Brown",
+    "phoneNumber": "+57-311-99438646"
+  },
+  {
+    "id": "5abab118-d413-4ced-9011-4ed9f67a381a",
+    "description": "One of the things that people don't realize is that that natural beauty, those recreational forests, they have an economic development impact for the state as well.",
+    "gender": "male",
+    "image": "https://cdn2.thecatapi.com/images/2lm.gif",
+    "kind": "gato",
+    "name": "henni",
+    "owner": "Mary,Smith",
+    "phoneNumber": "+57-311-97447488"
+  },
+  {
+    "id": "83b7d3f4-9d79-4509-9495-61eab9f636cc",
+    "description": "Our Soviet espionage efforts had virtually never, or had very seldom, produced any worthwhile political or economic intelligence on the Soviet Union.",
+    "gender": "male",
+    "image": "https://images.unsplash.com/photo-1577099600565-e89ede2b9422?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80",
+    "kind": "roedor",
+    "name": "channel",
+    "owner": "Patricia,Milgrom",
+    "phoneNumber": "+57-311-443585"
+  },
+  {
+    "id": "5bf78bac-6e30-4a4b-b235-3e6899081795",
+    "description": "Painting, sculpture and architecture are finished, but the art habit continues.",
     "gender": "female",
     "image": "https://images.unsplash.com/photo-1425082661705-1834bfd09dca?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=876&q=80",
     "kind": "roedor",
-    "name": "bobber",
-    "owner": "Harold,Foster",
-    "phoneNumber": "+57-311-24943036"
+    "name": "jace",
+    "owner": "Bill,Marlin",
+    "phoneNumber": "+57-311-79473855"
   },
   {
-    "id": "ac1d9455-f8be-40d1-a850-25ccca412fab",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "id": "94a6c58f-c3be-4d6c-9eee-59a6d65ea435",
+    "description": "As the most extravagant errors were received among the established articles of their faith, so the most infamous vices obtained in their practice, and were indulged not only with impunity, but authorized by the sanction of their laws.",
     "gender": "female",
-    "image": "https://images.dog.ceo/breeds/rottweiler/n02106550_11823.jpg",
-    "kind": "perro",
-    "name": "jru",
-    "owner": "James,Johnson",
-    "phoneNumber": "+57-311-59868292"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/84/Blue-crowned_Laughingthrush_10.jpg",
+    "kind": "ave",
+    "name": "unknown",
+    "owner": "Bill,Marlin",
+    "phoneNumber": "+57-311-43909505"
   },
   {
-    "id": "b2cf9d3b-152c-47b7-9b4a-e06a742f026b",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "gender": "female",
-    "image": "https://images.dog.ceo/breeds/bulldog-english/jager-1.jpg",
-    "kind": "perro",
-    "name": "harper",
-    "owner": "James,Johnson",
-    "phoneNumber": "+57-311-16298316"
-  },
-  {
-    "id": "cc15807f-73c9-450a-b1fa-985b835f4cea",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "gender": "female",
-    "image": "https://images.dog.ceo/breeds/pitbull/pitbull dog.jpg",
-    "kind": "perro",
-    "name": "krystal",
-    "owner": "Emily,Wood",
-    "phoneNumber": "+57-311-25953623"
-  },
-  {
-    "id": "4948e946-f17b-4c8b-ae02-2d46aa537697",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "gender": "female",
-    "image": "https://cdn2.thecatapi.com/images/e06.jpg",
-    "kind": "gato",
-    "name": "cheeky",
-    "owner": "William,Martin",
-    "phoneNumber": "+57-311-66280977"
-  },
-  {
-    "id": "01c90d33-e385-47b4-955b-9a94e5b33b76",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "gender": "female",
-    "image": "https://images.dog.ceo/breeds/kuvasz/n02104029_4494.jpg",
-    "kind": "perro",
-    "name": "pacino",
-    "owner": "David,Whitehead",
-    "phoneNumber": "+57-311-54348902"
-  },
-  {
-    "id": "da89efd9-4cbc-4d94-8a7f-f89dbd8469df",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "gender": "female",
-    "image": "https://cdn2.thecatapi.com/images/rLKF3Yzcf.jpg",
-    "kind": "gato",
-    "name": "chewbacca",
-    "owner": "David,Adamson",
-    "phoneNumber": "+57-311-83528391"
-  },
-  {
-    "id": "0712614f-aa6b-46f2-a82a-a76591827520",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "gender": "female",
-    "image": "https://images.dog.ceo/breeds/pembroke/n02113023_3945.jpg",
-    "kind": "perro",
-    "name": "steak",
-    "owner": "Harold,Foster",
-    "phoneNumber": "+57-311-85145346"
-  },
-  {
-    "id": "541fee92-a40d-45ea-bb56-82206b430f51",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "id": "dd5f5b39-be2c-49cb-916d-055079e48a4b",
+    "description": "Had anyone told me that I was going to have a career in business, I would have said, 'No way.'",
     "gender": "male",
     "image": "https://images.unsplash.com/photo-1618252903592-2b8c90c43a6e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
     "kind": "roedor",
-    "name": "finn boy",
-    "owner": "Harold,Foster",
-    "phoneNumber": "+57-311-73824807"
+    "name": "sugar bell",
+    "owner": "Sandy,Johanson",
+    "phoneNumber": "+57-311-83088628"
   },
   {
-    "id": "02c686b0-b7dc-4584-a4c8-a6d2ffcea9e0",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "id": "80f8cd21-9f4d-4637-b3bb-4ba2b6e3cc47",
+    "description": "Love is friendship set on fire.",
     "gender": "female",
-    "image": "https://images.dog.ceo/breeds/chow/n02112137_6334.jpg",
-    "kind": "perro",
-    "name": "vayne",
-    "owner": "Kenneth,Charles",
-    "phoneNumber": "+57-311-76549818"
+    "image": "https://images.unsplash.com/photo-1425082661705-1834bfd09dca?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=876&q=80",
+    "kind": "roedor",
+    "name": "sister",
+    "owner": "Paul,Bronson",
+    "phoneNumber": "+57-311-32119783"
   },
   {
-    "id": "d9003dd1-49e7-4950-a677-027395f1a23b",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "id": "bb0bc8b4-b483-4bb8-b650-35704f77e43d",
+    "description": "When I turned about 12 or 13, I realised that being funny wasn't about remembering jokes. It was about creating them.",
+    "gender": "male",
+    "image": "https://images.unsplash.com/photo-1618252903592-2b8c90c43a6e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+    "kind": "roedor",
+    "name": "ping",
+    "owner": "Kelly,Marder",
+    "phoneNumber": "+57-311-368806"
+  },
+  {
+    "id": "d035c0c6-65a8-4a2c-ae27-a1053c0213e6",
+    "description": "The man who has no money is poor, but one who has nothing but money is poorer. He only is rich who can enjoy without owning he is poor who though he has millions is covetous.",
+    "gender": "female",
+    "image": "https://cdn2.thecatapi.com/images/dnh.jpg",
+    "kind": "gato",
+    "name": "kalisse",
+    "owner": "Holly,Holmes",
+    "phoneNumber": "+57-311-38969359"
+  },
+  {
+    "id": "88b65f5c-a369-4ffa-b2f1-260dc8d2f962",
+    "description": "Science cannot tell theology how to construct a doctrine of creation, but you can't construct a doctrine of creation without taking account of the age of the universe and the evolutionary character of cosmic history.",
+    "gender": "female",
+    "image": "https://images.unsplash.com/photo-1425082661705-1834bfd09dca?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=876&q=80",
+    "kind": "roedor",
+    "name": "axle",
+    "owner": "David,Webster",
+    "phoneNumber": "+57-311-56423985"
+  },
+  {
+    "id": "47315678-b007-4d4f-8363-03db020926c2",
+    "description": "Good judgement comes from experience. Experience comes from bad judgement.",
+    "gender": "female",
+    "image": "https://cdn2.thecatapi.com/images/6j5.jpg",
+    "kind": "gato",
+    "name": "marty",
+    "owner": "Sandy,Adams",
+    "phoneNumber": "+57-311-75970377"
+  },
+  {
+    "id": "8c3725cb-ea16-49f4-bf4f-597983296cb4",
+    "description": "Hope is a great falsifier. Let good judgment keep her in check.",
+    "gender": "male",
+    "image": "https://images.fineartamerica.com/images-medium-large-5/1-trinidad-motmot-blue-crowned-motmot-ken-archer.jpg",
+    "kind": "ave",
+    "name": "dakota",
+    "owner": "Kenneth,Charles",
+    "phoneNumber": "+57-311-50635886"
+  },
+  {
+    "id": "0215de4e-04e2-4988-9786-76e5a49547bb",
+    "description": "I'm not really a morning person.",
+    "gender": "male",
+    "image": "https://images.unsplash.com/photo-1577099600565-e89ede2b9422?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80",
+    "kind": "roedor",
+    "name": "neca",
+    "owner": "Tracy,Coulter",
+    "phoneNumber": "+57-311-45512300"
+  },
+  {
+    "id": "4527eab2-528d-4f69-9154-8ab14c299ace",
+    "description": "Is it not by love alone that we succeed in penetrating to the very essence of being?",
+    "gender": "male",
+    "image": "https://images.dog.ceo/breeds/dane-great/n02109047_14013.jpg",
+    "kind": "perro",
+    "name": "bos",
+    "owner": "Emily,Wood",
+    "phoneNumber": "+57-311-593606"
+  },
+  {
+    "id": "d50db590-ab69-4db2-92d7-80b11e0c83da",
+    "description": "If we do not get No Child Left Behind right for Limited English Proficient students, the law will be a failure for most schools in the 15th Congressional District, and for many across the nation.",
+    "gender": "male",
+    "image": "https://images.unsplash.com/photo-1425082661705-1834bfd09dca?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=876&q=80",
+    "kind": "roedor",
+    "name": "jubilee",
+    "owner": "Emily,Wood",
+    "phoneNumber": "+57-311-48081602"
+  },
+  {
+    "id": "24597371-fd6b-446d-957a-31f2ea1ee205",
+    "description": "The church acknowledges some Scientologists choose to sever communications with family members who leave. The church says it is a fundamental human right to cease communication with someone. It adds disconnection is used against expelled members and those who attack the church.",
+    "gender": "female",
+    "image": "https://images.unsplash.com/photo-1577099600565-e89ede2b9422?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80",
+    "kind": "roedor",
+    "name": "wheezy",
+    "owner": "Kenneth,Charles",
+    "phoneNumber": "+57-311-9292355"
+  },
+  {
+    "id": "a12fae3a-c3d0-4324-a7e3-51ade0704d3d",
+    "description": "If you want to have a good life, you should focus on your family, on your business, on your dog, on your fun, and you'll have a good life.",
+    "gender": "male",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3b/White-eared_bulbul.jpg",
+    "kind": "ave",
+    "name": "gambit",
+    "owner": "Holly,Holmes",
+    "phoneNumber": "+57-311-23260269"
+  },
+  {
+    "id": "6ac182da-ba9e-484c-8ac8-f540c0a638c9",
+    "description": "Mitt - what I speak to Mitt Romney about is jobs. What I speak to Mitt Romney about is China, because he's got a great view on China and how they're trying to destroy our country by taking our jobs and making our product and manipulating their currency, so that it makes it almost impossible for our companies to compete.",
+    "gender": "female",
+    "image": "https://images.unsplash.com/photo-1425082661705-1834bfd09dca?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=876&q=80",
+    "kind": "roedor",
+    "name": "wanda",
+    "owner": "David,Adamson",
+    "phoneNumber": "+57-311-68170858"
+  },
+  {
+    "id": "941c376f-69dc-4e63-b555-167c043aa8ad",
+    "description": "I stopped predicting the future a long time ago.",
+    "gender": "male",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Tyto_alba_-British_Wildlife_Centre%2C_Surrey%2C_England-8a_%281%29.jpg",
+    "kind": "ave",
+    "name": "edward",
+    "owner": "Sandy,Adams",
+    "phoneNumber": "+57-311-86207476"
+  },
+  {
+    "id": "96699c7e-1ba4-41b0-a049-cf839133b779",
+    "description": "This may sound funny, but as much as the 'Today' show matured me, it also was something of a cocoon. I'd been happy there. I never went into the boss's office and pounded my fist on the desk, saying, 'Give me more money! Give me a prime-time show!'",
+    "gender": "male",
+    "image": "https://images.unsplash.com/photo-1577099600565-e89ede2b9422?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80",
+    "kind": "roedor",
+    "name": "nuka",
+    "owner": "Emily,Manin",
+    "phoneNumber": "+57-311-48063641"
+  },
+  {
+    "id": "c7939db9-aed8-49d1-89b6-eac2bd2a5185",
+    "description": "In action a great heart is the chief qualification. In work, a great head.",
+    "gender": "male",
+    "image": "https://images.dog.ceo/breeds/pointer-german/n02100236_1838.jpg",
+    "kind": "perro",
+    "name": "wula",
+    "owner": "Holly,Jones",
+    "phoneNumber": "+57-311-90491673"
+  },
+  {
+    "id": "06db8d9a-d817-46bf-b70c-14a5ff45d169",
+    "description": "I looked up my family tree and found out I was the sap.",
+    "gender": "female",
+    "image": "https://cdn2.thecatapi.com/images/9tl.jpg",
+    "kind": "gato",
+    "name": "zeppelin",
+    "owner": "Patricia,Milgrom",
+    "phoneNumber": "+57-311-9584914"
+  },
+  {
+    "id": "d889f928-17bc-44bd-8339-d5c85756554f",
+    "description": "Faith means intense, usually confident, belief that is not based on evidence sufficient to command assent from every reasonable person.",
+    "gender": "female",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Struthio_camelus_-_Etosha_2014_%283%29.jpg",
+    "kind": "ave",
+    "name": "zula",
+    "owner": "Holly,Holmes",
+    "phoneNumber": "+57-311-93254836"
+  },
+  {
+    "id": "0a6c4806-ab85-4f4d-9a7c-3e6e6b8a48e7",
+    "description": "I am excited to rise today to support National Mom and Pop Business Owners Day. This celebration honors the husband and wife business owner teams whose work helps drive the economy and fuel job growth.",
     "gender": "female",
     "image": "https://images.unsplash.com/photo-1618252903592-2b8c90c43a6e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
     "kind": "roedor",
-    "name": "maximillian",
-    "owner": "Vernon,Frank",
-    "phoneNumber": "+57-311-94566684"
+    "name": "minnie",
+    "owner": "Jose,Rodriguez",
+    "phoneNumber": "+57-311-52493643"
   },
   {
-    "id": "33e8de67-be99-41a0-aa77-5649a6bddd98",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "id": "f474f8a3-2bda-47a9-bcce-a0aaa074b9a8",
+    "description": "I was scheduled to give my first official press conference that morning anyway, 'cause I was chairman of the Governors Energy Council and I was making a press conference with regard to energy policy.",
     "gender": "female",
     "image": "https://upload.wikimedia.org/wikipedia/commons/6/64/Pink_backed_pelican_side_view.jpg",
     "kind": "ave",
-    "name": "arlington",
-    "owner": "Holly,Jones",
-    "phoneNumber": "+57-311-58594356"
+    "name": "sap",
+    "owner": "James,Johnson",
+    "phoneNumber": "+57-311-6078505"
   },
   {
-    "id": "8bc4fd48-ec89-4d4f-ac0d-667d4ec6338c",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "gender": "female",
-    "image": "https://images.unsplash.com/photo-1425082661705-1834bfd09dca?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=876&q=80",
+    "id": "61279895-e9f2-4bb6-9306-b21c39256aa8",
+    "description": "My parents are wonderful, and I'm really lucky - but my mom has always been almost exclusively a right-brained person. She goes completely on her feelings of things, on her intuition, and so she instilled that in my brothers and I.",
+    "gender": "male",
+    "image": "https://images.unsplash.com/photo-1618252903592-2b8c90c43a6e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
     "kind": "roedor",
-    "name": "truman",
-    "owner": "Frank,Smith",
-    "phoneNumber": "+57-311-25899121"
+    "name": "doolie",
+    "owner": "Patricia,Rubin",
+    "phoneNumber": "+57-311-28551595"
   },
   {
-    "id": "8b0441d4-7200-4c88-81d6-d0cde816a46a",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "id": "2cd3b59a-aa65-43cf-9a34-341a6324d6cf",
+    "description": "America has the best doctors, the best nurses, the best hospitals, the best medical technology, the best medical breakthrough medicines in the world. There is absolutely no reason we should not have in this country the best health care in the world.",
+    "gender": "female",
+    "image": "https://images.unsplash.com/photo-1618252903592-2b8c90c43a6e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+    "kind": "roedor",
+    "name": "kip",
+    "owner": "Kelly,Marder",
+    "phoneNumber": "+57-311-86238834"
+  },
+  {
+    "id": "ddebaf05-db0d-4d48-a652-3e166cf86223",
+    "description": "Great effort springs naturally from great attitude.",
+    "gender": "female",
+    "image": "https://images.unsplash.com/photo-1577099600565-e89ede2b9422?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80",
+    "kind": "roedor",
+    "name": "toy",
+    "owner": "Sandy,Johanson",
+    "phoneNumber": "+57-311-92647369"
+  },
+  {
+    "id": "b1e8dc8a-cea9-4ada-95a9-d0dc238f1e38",
+    "description": "I replaced the headlights in my car with strobe lights, so it looks like I'm the only one moving.",
+    "gender": "male",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Blue-and-Yellow-Macaw.jpg",
+    "kind": "ave",
+    "name": "jagger",
+    "owner": "William,Martin",
+    "phoneNumber": "+57-311-47244508"
+  },
+  {
+    "id": "c58ecfaa-7079-44a7-b5c5-4268c318072d",
+    "description": "Government in the U.S. today is a senior partner in every business in the country.",
     "gender": "male",
     "image": "https://images.unsplash.com/photo-1577099600565-e89ede2b9422?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80",
     "kind": "roedor",
-    "name": "jill",
-    "owner": "David,Adamson",
-    "phoneNumber": "+57-311-28471491"
+    "name": "beauregard",
+    "owner": "Patricia,Rubin",
+    "phoneNumber": "+57-311-95990479"
   },
   {
-    "id": "b67d6e43-438c-4330-bff6-d618bf074979",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "id": "b2766d27-9e01-428f-a3ac-7cd4761f905a",
+    "description": "I don't care tuppence whether I'm forced into a leadership position or not. I'd much sooner not.",
+    "gender": "female",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Wood_Duck_%28Aix_sponsa%29%2C_Parc_du_Rouge-Clo%C3%AEtre%2C_Brussels.jpg",
+    "kind": "ave",
+    "name": "neva",
+    "owner": "William,Martin",
+    "phoneNumber": "+57-311-51302177"
+  },
+  {
+    "id": "05f234c9-9817-4f5a-a6d3-a7db5640c216",
+    "description": "As a young man you don't notice at all that you were, after all, badly affected. For years afterwards, at least ten years, I kept getting these dreams, in which I had to crawl through ruined houses, along passages I could hardly get through.",
+    "gender": "female",
+    "image": "https://images.unsplash.com/photo-1618252903592-2b8c90c43a6e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+    "kind": "roedor",
+    "name": "spooky",
+    "owner": "Holly,Holmes",
+    "phoneNumber": "+57-311-91347176"
+  },
+  {
+    "id": "10ec4741-fb7b-437c-9772-f92fc3475f5b",
+    "description": "True courage is not the brutal force of vulgar heroes, but the firm resolve of virtue and reason.",
+    "gender": "female",
+    "image": "https://cdn2.thecatapi.com/images/be1.jpg",
+    "kind": "gato",
+    "name": "kilter",
+    "owner": "Emily,Wood",
+    "phoneNumber": "+57-311-60130635"
+  },
+  {
+    "id": "4d5ba9d1-881e-4500-9f21-b42cb6aee521",
+    "description": "A chronicle is very different from history proper.",
+    "gender": "female",
+    "image": "https://images.unsplash.com/photo-1618252903592-2b8c90c43a6e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+    "kind": "roedor",
+    "name": "oh boy",
+    "owner": "David,Webster",
+    "phoneNumber": "+57-311-8566035"
+  },
+  {
+    "id": "7db46369-4a15-47da-be4e-592e63025d25",
+    "description": "In Los Angeles, as I gained and lost celebrity, then gained it again, I often found myself wondering why I, out of thousands like me, had become famous.",
+    "gender": "female",
+    "image": "https://images.dog.ceo/breeds/sheepdog-shetland/n02105855_2376.jpg",
+    "kind": "perro",
+    "name": "bridgette",
+    "owner": "David,Webster",
+    "phoneNumber": "+57-311-45554119"
+  },
+  {
+    "id": "ee7b4bd0-ebe9-4978-928e-c3b551c0bcc4",
+    "description": "I believe that music in itself heals and that everything is about the power of the mind. I thought if you are happy, you don't get ill. Your health is in your head. When you are satisfied with your work, you don't get ill.",
+    "gender": "female",
+    "image": "https://images.dog.ceo/breeds/leonberg/n02111129_2088.jpg",
+    "kind": "perro",
+    "name": "dodge",
+    "owner": "David,Webster",
+    "phoneNumber": "+57-311-59642268"
+  },
+  {
+    "id": "11452d38-cdbd-4e39-b6aa-355607dcf9c1",
+    "description": "Middle age is the time when a man is always thinking that in a week or two he will feel as good as ever.",
     "gender": "male",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Crested_Bustard_-_Eupodotis_ruficrista_gindiana.jpg",
+    "kind": "ave",
+    "name": "vixen",
+    "owner": "Kenneth,Charles",
+    "phoneNumber": "+57-311-63303677"
+  },
+  {
+    "id": "449ec168-b9bd-49bc-8328-ef11619c33ab",
+    "description": "You know that being an American is more than a matter of where your parents came from. It is a belief that all men are created free and equal and that everyone deserves an even break.",
+    "gender": "female",
+    "image": "https://images.dog.ceo/breeds/bluetick/n02088632_1173.jpg",
+    "kind": "perro",
+    "name": "jelly",
+    "owner": "Holly,Holmes",
+    "phoneNumber": "+57-311-5013557"
+  },
+  {
+    "id": "1b306582-618c-44b4-9079-a768d847dbca",
+    "description": "To fulfill a dream, to be allowed to sweat over lonely labor, to be given a chance to create, is the meat and potatoes of life. The money is the gravy.",
+    "gender": "female",
+    "image": "https://images.dog.ceo/breeds/rottweiler/n02106550_3528.jpg",
+    "kind": "perro",
+    "name": "fangsie",
+    "owner": "Emily,Manin",
+    "phoneNumber": "+57-311-9872686"
+  },
+  {
+    "id": "1bd627ac-2795-4710-8c90-7e3a434d3a11",
+    "description": "The only vice that cannot be forgiven is hypocrisy. The repentance of a hypocrite is itself hypocrisy.",
+    "gender": "male",
+    "image": "https://cdn2.thecatapi.com/images/dnl.jpg",
+    "kind": "gato",
+    "name": "herbie",
+    "owner": "William,Martin",
+    "phoneNumber": "+57-311-17500832"
+  },
+  {
+    "id": "06e89d22-7ed4-4b72-bf8f-b09d8d5a71ce",
+    "description": "If Liberia has failed, then, it is no evidence of the failure of the Negro in government. It is merely evidence of the failure of slavery.",
+    "gender": "female",
     "image": "https://images.unsplash.com/photo-1425082661705-1834bfd09dca?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=876&q=80",
     "kind": "roedor",
-    "name": "gustaf cornelius",
-    "owner": "Emily,Wood",
-    "phoneNumber": "+57-311-40712157"
+    "name": "kleio",
+    "owner": "David,Webster",
+    "phoneNumber": "+57-311-84599519"
   },
   {
-    "id": "410204f9-7498-406b-a32f-29c9db393ce8",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "id": "01a8e317-6986-4a4a-afb4-6e6ecc9a693e",
+    "description": "I feel pretty good when I get out of bed in the morning. I don't feel all beat up, which is nice.",
     "gender": "male",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Grey_crowned_crane_at_Martin_Mere.JPG",
-    "kind": "ave",
-    "name": "sol",
-    "owner": "Sandy,Adams",
-    "phoneNumber": "+57-311-73790721"
+    "image": "https://cdn2.thecatapi.com/images/dm1.jpg",
+    "kind": "gato",
+    "name": "aubrey",
+    "owner": "Vernon,Frank",
+    "phoneNumber": "+57-311-25253800"
   },
   {
-    "id": "c9ebb7eb-acec-42f0-a8cf-e2e5d3bc68ba",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "id": "8ea4f098-1e7e-47ee-acc7-448c934069a3",
+    "description": "Synergy and serendipity often play a big part in medical and scientific advances.",
+    "gender": "male",
+    "image": "https://cdn2.thecatapi.com/images/bri.jpg",
+    "kind": "gato",
+    "name": "tonka",
+    "owner": "Holly,Jones",
+    "phoneNumber": "+57-311-78246433"
+  },
+  {
+    "id": "6c4c495c-9288-41dc-80c8-10b974de555e",
+    "description": "In marriage, a man becomes slack and selfish, and undergoes a fatty degeneration of his moral being.",
+    "gender": "male",
+    "image": "https://cdn2.thecatapi.com/images/dll.jpg",
+    "kind": "gato",
+    "name": "justice",
+    "owner": "Sandy,Adams",
+    "phoneNumber": "+57-311-91335689"
+  },
+  {
+    "id": "694f5ce6-2180-44a0-81a7-fbf67c2c24bd",
+    "description": "Appealing workplaces are to be avoided. One wants a room with no view, so imagination can meet memory in the dark.",
+    "gender": "male",
+    "image": "https://cdn2.thecatapi.com/images/e4b.jpg",
+    "kind": "gato",
+    "name": "nantahala",
+    "owner": "Bill,Marlin",
+    "phoneNumber": "+57-311-383568"
+  },
+  {
+    "id": "ab1a53c1-8749-437e-b1b1-1af952c11f07",
+    "description": "Christians are supposed not merely to endure change, nor even to profit by it, but to cause it.",
+    "gender": "male",
+    "image": "https://cdn2.thecatapi.com/images/dfo.jpg",
+    "kind": "gato",
+    "name": "horizon",
+    "owner": "Patricia,Rubin",
+    "phoneNumber": "+57-311-28568356"
+  },
+  {
+    "id": "642a55ef-00fc-41c9-8f06-7b7361b99ac2",
+    "description": "Turkey wants a policy of engagement exactly like President Obama's new approach. Policy of engagement, less confrontation, less tense attitude, especially in the region.",
+    "gender": "male",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Rhynchopsitta_pachyrhyncha_-Arizona-Sonora_Desert_Museum%2C_Tucson%2C_Arizona%2C_USA-8a.jpg",
+    "kind": "ave",
+    "name": "sammi",
+    "owner": "Marietta,Brown",
+    "phoneNumber": "+57-311-51642982"
+  },
+  {
+    "id": "b9f100b2-c74d-4425-a17e-1b238bfa5831",
+    "description": "My recipe for dealing with anger and frustration: set the kitchen timer for twenty minutes, cry, rant, and rave, and at the sound of the bell, simmer down and go about business as usual.",
     "gender": "female",
-    "image": "https://images.dog.ceo/breeds/terrier-bedlington/n02093647_1156.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/GuamRail02.jpg",
+    "kind": "ave",
+    "name": "koga",
+    "owner": "Emily,Manin",
+    "phoneNumber": "+57-311-51173718"
+  },
+  {
+    "id": "49f44ed4-990a-4eda-9d3d-7d1795f364c6",
+    "description": "A huge part of acting in movies is appetite. You do your best work when you've got a lot of appetite and you really want to embrace something. When you get tired, you don't have that hunger.",
+    "gender": "female",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/GuamRail02.jpg",
+    "kind": "ave",
+    "name": "potato",
+    "owner": "Holly,Jones",
+    "phoneNumber": "+57-311-48458474"
+  },
+  {
+    "id": "a552ea5e-f326-4d3d-8912-6fd0d3aec72d",
+    "description": "But if we get to the point where more people do not believe in a God than who do believe in God, we will have a hollow legal system - we will have something without heart.",
+    "gender": "female",
+    "image": "https://images.dog.ceo/breeds/elkhound-norwegian/n02091467_442.jpg",
+    "kind": "perro",
+    "name": "miss lady",
+    "owner": "Tracy,Coulter",
+    "phoneNumber": "+57-311-8046323"
+  },
+  {
+    "id": "1fd9270a-c489-4fc9-8a6d-447eef5904d8",
+    "description": "Money equals freedom.",
+    "gender": "female",
+    "image": "https://images.dog.ceo/breeds/saluki/n02091831_10722.jpg",
     "kind": "perro",
     "name": "patience",
-    "owner": "Holly,Jones",
-    "phoneNumber": "+57-311-99402522"
+    "owner": "David,Adamson",
+    "phoneNumber": "+57-311-40455185"
   },
   {
-    "id": "38feb1f4-e48b-4770-bdd4-111b5c206669",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "gender": "male",
-    "image": "https://cdn2.thecatapi.com/images/bbj.jpg",
-    "kind": "gato",
-    "name": "caicos",
-    "owner": "Patricia,Rubin",
-    "phoneNumber": "+57-311-75745197"
-  },
-  {
-    "id": "6f98c4f3-0722-4e05-96b3-673e77848884",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "id": "f955cb44-6f3d-4739-9c4b-40f3b2670c05",
+    "description": "Friendship's the wine of life: but friendship new... is neither strong nor pure.",
     "gender": "female",
-    "image": "https://images.unsplash.com/photo-1577099600565-e89ede2b9422?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80",
-    "kind": "roedor",
-    "name": "rosy",
-    "owner": "Sandy,Adams",
-    "phoneNumber": "+57-311-9727602"
-  },
-  {
-    "id": "1119edc4-d20e-4e9e-901d-8f999b7a9480",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "gender": "male",
-    "image": "https://images.unsplash.com/photo-1425082661705-1834bfd09dca?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=876&q=80",
-    "kind": "roedor",
-    "name": "montana",
-    "owner": "Jose,Rodriguez",
-    "phoneNumber": "+57-311-66834030"
-  },
-  {
-    "id": "a249d1b7-fa7d-41e0-8ae2-81ec6cee4b7e",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "gender": "female",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Buceros_rhinoceros_-Singapore_Zoo_-pair-8a.jpg",
+    "image": "https://images.fineartamerica.com/images-medium-large-5/1-trinidad-motmot-blue-crowned-motmot-ken-archer.jpg",
     "kind": "ave",
-    "name": "file",
-    "owner": "Paul,Bronson",
-    "phoneNumber": "+57-311-65919048"
-  },
-  {
-    "id": "4f45fe63-0833-47f9-a6a4-d4076d63765d",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "gender": "female",
-    "image": "https://images.dog.ceo/breeds/shihtzu/n02086240_4430.jpg",
-    "kind": "perro",
-    "name": "nerre",
+    "name": "emery",
     "owner": "Kenneth,Charles",
-    "phoneNumber": "+57-311-77418828"
+    "phoneNumber": "+57-311-14495625"
   },
   {
-    "id": "fa28850b-72bf-4831-975b-ee44580d6f92",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "id": "5142a4e0-b267-41f5-8280-5b6cbf5bae07",
+    "description": "Life could be wonderful if people would leave you alone.",
     "gender": "male",
-    "image": "https://cdn2.thecatapi.com/images/xD2mDDuDV.jpg",
+    "image": "https://cdn2.thecatapi.com/images/J-MCA1LOV.jpg",
     "kind": "gato",
-    "name": "wrangell",
-    "owner": "Frank,Smith",
-    "phoneNumber": "+57-311-57839259"
+    "name": "weenie",
+    "owner": "Mary,Smith",
+    "phoneNumber": "+57-311-20076458"
   },
   {
-    "id": "f56c6ecc-e78c-4938-9632-5325ee1e8530",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "gender": "female",
-    "image": "https://cdn2.thecatapi.com/images/5rp.jpg",
-    "kind": "gato",
-    "name": "jubilee",
-    "owner": "David,Webster",
-    "phoneNumber": "+57-311-85111618"
-  },
-  {
-    "id": "f294d53d-9d20-4697-8d45-a190cc24db45",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "gender": "female",
-    "image": "https://cdn2.thecatapi.com/images/2nk.jpg",
-    "kind": "gato",
-    "name": "kofac",
-    "owner": "Kelly,Marder",
-    "phoneNumber": "+57-311-47045336"
-  },
-  {
-    "id": "1858e1d4-ebe5-44c0-9e09-de1744c8da31",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "gender": "male",
-    "image": "https://images.dog.ceo/breeds/papillon/n02086910_7698.jpg",
-    "kind": "perro",
-    "name": "ren",
-    "owner": "Jose,Rodriguez",
-    "phoneNumber": "+57-311-91179377"
-  },
-  {
-    "id": "3f621502-f829-4a6f-a653-982baafd4e9d",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "gender": "female",
-    "image": "https://images.dog.ceo/breeds/dhole/n02115913_1334.jpg",
-    "kind": "perro",
-    "name": "kodos",
-    "owner": "David,Webster",
-    "phoneNumber": "+57-311-30987138"
-  },
-  {
-    "id": "b4fcba31-f3ea-4749-bb24-67875f43b198",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "gender": "female",
-    "image": "https://images.unsplash.com/photo-1425082661705-1834bfd09dca?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=876&q=80",
-    "kind": "roedor",
-    "name": "zotter",
-    "owner": "Sandy,Adams",
-    "phoneNumber": "+57-311-98056306"
-  },
-  {
-    "id": "b0a234fa-6987-4772-9635-8dae893abc73",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "gender": "female",
-    "image": "https://images.unsplash.com/photo-1425082661705-1834bfd09dca?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=876&q=80",
-    "kind": "roedor",
-    "name": "kono",
-    "owner": "William,Martin",
-    "phoneNumber": "+57-311-26172182"
-  },
-  {
-    "id": "9d38a31b-61ba-4241-8daf-b873c8836202",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "gender": "male",
-    "image": "https://images.unsplash.com/photo-1577099600565-e89ede2b9422?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80",
-    "kind": "roedor",
-    "name": "jericho",
-    "owner": "James,Johnson",
-    "phoneNumber": "+57-311-64204601"
-  },
-  {
-    "id": "d63bbc05-58f1-4e25-8f72-2e3b2f559647",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "gender": "female",
-    "image": "https://images.unsplash.com/photo-1425082661705-1834bfd09dca?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=876&q=80",
-    "kind": "roedor",
-    "name": "tasha",
-    "owner": "William,Martin",
-    "phoneNumber": "+57-311-18355225"
-  },
-  {
-    "id": "8dd46307-af3b-494a-9b07-a671913b4afc",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "gender": "male",
-    "image": "https://images.unsplash.com/photo-1425082661705-1834bfd09dca?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=876&q=80",
-    "kind": "roedor",
-    "name": "aksel",
-    "owner": "Emily,Wood",
-    "phoneNumber": "+57-311-98088773"
-  },
-  {
-    "id": "fb839ca7-f5cf-4374-b307-91846996bc70",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "id": "e52c19fe-299b-4f36-b57f-951fc8b48eaf",
+    "description": "In my family, we were Americans, we were Republicans and we were Methodists.",
     "gender": "female",
     "image": "https://images.unsplash.com/photo-1618252903592-2b8c90c43a6e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
     "kind": "roedor",
-    "name": "foxy",
-    "owner": "David,Webster",
-    "phoneNumber": "+57-311-80671683"
-  },
-  {
-    "id": "62d9c1dd-59d5-4590-8062-0b2517efff90",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "gender": "male",
-    "image": "https://images.dog.ceo/breeds/hound-plott/hhh_plott002.JPG",
-    "kind": "perro",
-    "name": "bud",
-    "owner": "Sandy,Johanson",
-    "phoneNumber": "+57-311-27066385"
-  },
-  {
-    "id": "dcdedbf4-c763-4500-8457-70ca660ae36f",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "gender": "female",
-    "image": "https://images.dog.ceo/breeds/setter-irish/n02100877_863.jpg",
-    "kind": "perro",
-    "name": "purdey",
-    "owner": "Jose,Rodriguez",
-    "phoneNumber": "+57-311-84683047"
-  },
-  {
-    "id": "e0c92664-f79e-478f-b042-18ff0cc0289a",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "gender": "female",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/6/63/African_penguin_side_profile.jpg",
-    "kind": "ave",
-    "name": "lycos",
-    "owner": "Kenneth,Charles",
-    "phoneNumber": "+57-311-93790251"
-  },
-  {
-    "id": "8e2bf492-b347-4757-8d22-6c0c56a54392",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "gender": "male",
-    "image": "https://cdn2.thecatapi.com/images/Jl7ZnjhiO.jpg",
-    "kind": "gato",
-    "name": "bonnie",
-    "owner": "Patricia,Rubin",
-    "phoneNumber": "+57-311-12108116"
-  },
-  {
-    "id": "9daf2c6d-c02a-4090-8a84-f936cc56d825",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "gender": "female",
-    "image": "https://cdn2.thecatapi.com/images/5pp.jpg",
-    "kind": "gato",
-    "name": "lugo",
+    "name": "angie",
     "owner": "Paul,Bronson",
-    "phoneNumber": "+57-311-41941054"
+    "phoneNumber": "+57-311-78723430"
   },
   {
-    "id": "179c5ca1-61f7-4dd9-a231-43ff2a69e04b",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "gender": "female",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/0/00/R%C3%BCppell%27s_Vulture_%28Gyps_rueppelli%29_%2821160089681%29.jpg",
-    "kind": "ave",
-    "name": "dublin",
-    "owner": "Kelly,Marder",
-    "phoneNumber": "+57-311-14637174"
-  },
-  {
-    "id": "8ee97eb7-3b70-4f1e-9461-d945ae0061d0",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "gender": "female",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/4/47/Zwergsaeger_maenchen_weibchen.jpg",
-    "kind": "ave",
-    "name": "lovey",
-    "owner": "Sandy,Johanson",
-    "phoneNumber": "+57-311-65518196"
-  },
-  {
-    "id": "dd2daf31-8d92-4daa-978e-88d651099ee0",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "gender": "female",
-    "image": "https://images.dog.ceo/breeds/deerhound-scottish/n02092002_7696.jpg",
-    "kind": "perro",
-    "name": "squall",
-    "owner": "Frank,Smith",
-    "phoneNumber": "+57-311-87661699"
-  },
-  {
-    "id": "7e5b2c12-9586-4ed7-a759-1645f4a4f4ae",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "gender": "female",
-    "image": "https://cdn2.thecatapi.com/images/66.jpg",
-    "kind": "gato",
-    "name": "flex",
-    "owner": "Mary,Smith",
-    "phoneNumber": "+57-311-35552131"
-  },
-  {
-    "id": "3c46f8de-f99c-4862-b772-900a83e8824c",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "gender": "male",
-    "image": "https://images.dog.ceo/breeds/ovcharka-caucasian/MVIMG_20190730_171335.jpg",
-    "kind": "perro",
-    "name": "doolin",
-    "owner": "Harold,Foster",
-    "phoneNumber": "+57-311-79622085"
-  },
-  {
-    "id": "fb22b454-f8f7-49c3-b266-0f678d7e2360",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "gender": "male",
-    "image": "https://images.dog.ceo/breeds/terrier-patterdale/320px-05078045_Patterdale_Terrier.jpg",
-    "kind": "perro",
-    "name": "bebe",
-    "owner": "Frank,Smith",
-    "phoneNumber": "+57-311-83801934"
-  },
-  {
-    "id": "eeccad46-f924-4d8b-a6d4-53522ad64846",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "id": "0b6ac40a-cf73-41fd-a9f1-b63746f91618",
+    "description": "I don't think of myself as hot or cool or anything, just a dork.",
     "gender": "male",
     "image": "https://images.unsplash.com/photo-1577099600565-e89ede2b9422?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80",
     "kind": "roedor",
-    "name": "bitsy",
-    "owner": "Kenneth,Charles",
-    "phoneNumber": "+57-311-79417967"
+    "name": "chill",
+    "owner": "David,Whitehead",
+    "phoneNumber": "+57-311-43763394"
   },
   {
-    "id": "6da40313-29cf-4818-bcc3-2cde85a30857",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "gender": "female",
-    "image": "https://images.dog.ceo/breeds/terrier-welsh/lucy.jpg",
-    "kind": "perro",
-    "name": "aqwla",
-    "owner": "William,Martin",
-    "phoneNumber": "+57-311-68235433"
-  },
-  {
-    "id": "447284d7-c1b5-4c1e-bda2-84e6277cfe11",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "gender": "female",
-    "image": "https://images.dog.ceo/breeds/terrier-wheaten/n02098105_91.jpg",
-    "kind": "perro",
-    "name": "rubert",
-    "owner": "Patricia,Rubin",
-    "phoneNumber": "+57-311-12127168"
-  },
-  {
-    "id": "239a2316-9863-4b02-89dc-5c89b5c83c63",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "gender": "female",
-    "image": "https://cdn2.thecatapi.com/images/bth.jpg",
-    "kind": "gato",
-    "name": "lefty",
-    "owner": "Melissa,Roberts",
-    "phoneNumber": "+57-311-37256285"
-  },
-  {
-    "id": "203f3848-d84d-4e3f-8303-abe8148abc13",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "id": "27140ad9-3d4a-49f7-802c-21f04d290116",
+    "description": "When I was younger, I had a perm, and it was really big. My mom was a hairdresser, so even my dad had a perm! I looked like a poodle, but it was cool at the time.",
     "gender": "male",
-    "image": "https://images.dog.ceo/breeds/poodle-toy/n02113624_2224.jpg",
+    "image": "https://images.dog.ceo/breeds/pinscher-miniature/n02107312_2706.jpg",
     "kind": "perro",
-    "name": "norbu chimpa",
-    "owner": "Kelly,Marder",
-    "phoneNumber": "+57-311-69871959"
+    "name": "tasha",
+    "owner": "Sandy,Adams",
+    "phoneNumber": "+57-311-72021326"
   },
   {
-    "id": "faf02a86-05ed-4c95-a663-9ddb1c96a038",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "gender": "female",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Victoria_Crowned_Pigeon_CentralPark_Zoo.jpg",
+    "id": "5283c7f0-5f39-4e10-bf39-7747de0a3f48",
+    "description": "Mom ran the house, so we grew up Portuguese.",
+    "gender": "male",
+    "image": "https://images.dog.ceo/breeds/chow/n02112137_8983.jpg",
+    "kind": "perro",
+    "name": "riddick",
+    "owner": "Vernon,Frank",
+    "phoneNumber": "+57-311-50909946"
+  },
+  {
+    "id": "1f17ccfa-bd94-47cc-ae8e-422aa51b2cae",
+    "description": "Never mind your happiness do your duty.",
+    "gender": "male",
+    "image": "https://images.dog.ceo/breeds/basenji/n02110806_2630.jpg",
+    "kind": "perro",
+    "name": "tickle",
+    "owner": "Frank,Smith",
+    "phoneNumber": "+57-311-75675448"
+  },
+  {
+    "id": "dea8e5ec-055e-4c16-836f-f526cbf4acac",
+    "description": "A liberal education is at the heart of a civil society, and at the heart of a liberal education is the act of teaching.",
+    "gender": "male",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/34/Nestor_notabilis_-Fiordland%2C_New_Zealand-8b.jpg",
     "kind": "ave",
-    "name": "bowser",
+    "name": "klondike",
+    "owner": "David,Webster",
+    "phoneNumber": "+57-311-626310"
+  },
+  {
+    "id": "4a6893b9-e2b8-4cbc-bcd3-821838c4d47f",
+    "description": "You bet every member of Congress who votes for this bill ought to read it, read it thoroughly, and understand that what we're looking at here amounts to nothing more than a government takeover of our health care economy, paid for with nearly a trillion dollars in new taxes on individuals and small businesses. And it must be opposed.",
+    "gender": "female",
+    "image": "https://cdn2.thecatapi.com/images/2nn.jpg",
+    "kind": "gato",
+    "name": "illa",
     "owner": "James,Johnson",
-    "phoneNumber": "+57-311-69267219"
+    "phoneNumber": "+57-311-16242659"
   },
   {
-    "id": "05e13f1c-9fce-4e47-a2de-13216ded232a",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "gender": "female",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Lake_Manyara_Bartvogel.jpg",
-    "kind": "ave",
-    "name": "lena",
-    "owner": "Tracy,Coulter",
-    "phoneNumber": "+57-311-43440115"
+    "id": "53befcf8-826e-4c67-ac5e-d3aae5e1b76a",
+    "description": "I think that sense of humor is important in marriage. A sense of humor gets people through marriage.",
+    "gender": "male",
+    "image": "https://images.dog.ceo/breeds/terrier-tibetan/n02097474_728.jpg",
+    "kind": "perro",
+    "name": "riot",
+    "owner": "Marietta,Brown",
+    "phoneNumber": "+57-311-20772162"
   },
   {
-    "id": "a50f80a6-ea43-47e7-8a4e-6ccaa41b0edb",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "gender": "female",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/6/64/Pink_backed_pelican_side_view.jpg",
+    "id": "d90fb89b-973c-4f5d-93b6-74d30ed47d9e",
+    "description": "The human body is the best picture of the human soul.",
+    "gender": "male",
+    "image": "https://cdn2.thecatapi.com/images/NcvFzpm9M.jpg",
+    "kind": "gato",
+    "name": "dasha",
+    "owner": "Marietta,Brown",
+    "phoneNumber": "+57-311-48350303"
+  },
+  {
+    "id": "ab82174f-24e2-442f-85e5-518bc678ac3f",
+    "description": "The experience gathered from books, though often valuable, is but the nature of learning whereas the experience gained from actual life is one of the nature of wisdom.",
+    "gender": "male",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/47/Zwergsaeger_maenchen_weibchen.jpg",
     "kind": "ave",
-    "name": "emma emily",
-    "owner": "Kelly,Marder",
-    "phoneNumber": "+57-311-98201046"
+    "name": "poppy luu",
+    "owner": "Melissa,Roberts",
+    "phoneNumber": "+57-311-99782622"
+  },
+  {
+    "id": "409695f1-3baf-4449-8c3d-c0f4ecb89701",
+    "description": "I have been astonished that men could die martyrs for religion - I have shuddered at it. I shudder no more - I could be martyred for my religion - Love is my religion - I could die for that.",
+    "gender": "male",
+    "image": "https://cdn2.thecatapi.com/images/MTg0ODgxNQ.jpg",
+    "kind": "gato",
+    "name": "azaria",
+    "owner": "Emily,Manin",
+    "phoneNumber": "+57-311-62845572"
   }
 ]

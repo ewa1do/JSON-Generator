@@ -32,4 +32,17 @@ function getRandomNumber(limit: number) {
   return Math.floor(Math.random() * limit);
 }
 
-export { genders, animals, species, description, getRandomNumber };
+function printProgress(i: number) {
+  process.stdout.clearLine(0);
+  process.stdout.cursorTo(0);
+  process.stdout.write(`Completed: ${i}/100`);
+}
+
+export {
+  genders,
+  animals,
+  species,
+  description,
+  getRandomNumber,
+  printProgress,
+};
